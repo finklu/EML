@@ -9,11 +9,6 @@ Dieses Repository dient als Einführung in das spannende Gebiet des Maschinellen
 
 - [Über Maschinelles Lernen](#über-maschinelles-lernen)
 - [Ziele dieses Repositories](#ziele-dieses-repositories)
-- [Installation](#installation)
-- [Verwendete Technologien](#verwendete-technologien)
-- [Beispiele und Anwendungen](#beispiele-und-anwendungen)
-- [Mitwirken](#mitwirken)
-- [Lizenz](#lizenz)
 
 ---
 
