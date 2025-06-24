@@ -9,6 +9,7 @@ Willkommen zum Repository **"Einführung in Maschinelles Lernen"**! Dieses Repos
 - **Ressourcen**: Links zu Büchern, Artikeln und Tutorials.
 - **Projekte**: Beispielprojekte, um das Gelernte anzuwenden.
 
+
 ## Voraussetzungen
 
 Um die Inhalte dieses Repositories nutzen zu können, benötigen Sie:
